@@ -242,8 +242,8 @@ While the analysis provides actionable insights, the following limitations shoul
 
 For the original project scenario, tasks, and evaluation criteria, refer to:
 
-- 🇬🇧 [English Project Booklet](docs/StudyBuild_Customer_Analytics_Booklet_EN.pdf)
-- 🇮🇷 [Persian Project Booklet](docs/StudyBuild_Customer_Analytics_Booklet_FA.pdf)
+- 🇬🇧 [English Project Booklet](submissions/docs/StudyBuild_Customer_Analytics_Booklet_EN.pdf)
+- 🇮🇷 [Persian Project Booklet](submissions/docs/StudyBuild_Customer_Analytics_Booklet_FA.pdf)
 
 ---
 
